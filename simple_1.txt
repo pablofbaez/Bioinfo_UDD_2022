@@ -1,5 +1,6 @@
 Bioinformática
 ##############
 
-La bioinformática puede definirse, de manera general, como la aplicación de tecnologías computacionales y la estadística a la gestión y análisis de datos biológicos. Los términos bioinformática, biología computacional, informática biológica y, en ocasiones, biocomputación, son utilizados en muchas situaciones como sinónimos,2 y hacen referencia a campos de estudios interdisciplinares muy vinculados que requieren el uso o el desarrollo de diferentes técnicas estudiadas universitariamente en la Ingeniería Informática como ciencia aplicada de la disciplina informática.
+La bioinformática puede definirse, de manera general, como la aplicación de tecnologías computacionales y la estadística a la gestión y análisis de datos biológicos. 
+Los términos bioinformática, biología computacional, informática biológica y, en ocasiones, biocomputación, son utilizados en muchas situaciones como sinónimos,2 y hacen referencia a campos de estudios interdisciplinares muy vinculados que requieren el uso o el desarrollo de diferentes técnicas estudiadas universitariamente en la Ingeniería Informática como ciencia aplicada de la disciplina informática.
 https://es.wikipedia.org/wiki/Bioinform%C3%A1tica
